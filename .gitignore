@@ -1,0 +1,20 @@
+# Saved task data (each user will have their own)
+data/*.json
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db

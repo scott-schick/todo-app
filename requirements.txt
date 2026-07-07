@@ -1,0 +1,5 @@
+# This project only uses Python's standard library, so there are
+# no external dependencies to install.
+#
+# This file is kept here because most real-world Python repositories
+# have one — it's a good habit to know about!
