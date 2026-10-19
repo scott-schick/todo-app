@@ -1,6 +1,6 @@
 # To-Do List App
 
-A tiny command-line to-do list, built for learning **Python** and **Git**.
+A tiny command-line to-do list, built for learning **Python** and **Git**. Designed for Camp Integem, Irvine 2026.
 
 This project is intentionally simple. It's meant to be a sandbox for practicing
 git commands like `clone`, `add`, `commit`, `branch`, `merge`, and `push` —
